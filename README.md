@@ -85,7 +85,7 @@ Deploy a WordPress website on an Amazon EC2 instance
   Step 5: Make Apache owner for all WordPress content
     ![image](https://github.com/user-attachments/assets/377b7744-139f-4c2a-b505-2b9fcfc7be50)
 
-      ![image](https://github.com/user-attachments/assets/5988d86b-d725-4c7a-b47a-ceabcb79c904)
+  ![image](https://github.com/user-attachments/assets/5988d86b-d725-4c7a-b47a-ceabcb79c904)
   Step 6: Download php for running WordPress
     ![image](https://github.com/user-attachments/assets/b6aebb42-49a5-4d41-b0c4-0ced6a982eca)
 
